@@ -1,7 +1,3 @@
-# MLProjects_Inligntech
-
-This repository contains Machine Learning projects.
-
 ## Credit Card Fraud Detection
 
 This project aims to detect fraudulent credit card transactions using a Logistic Regression model.
